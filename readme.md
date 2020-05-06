@@ -1,6 +1,6 @@
 
 feel free to contact me on my skype: nlahkim82
-
+[https://www.stg-ing.com/equipe/](https://www.stg-ing.com/equipe/)
 
 the website should be responsive
 [![what u need to do ]](https://youtu.be/fSOXvMTDVF8)
