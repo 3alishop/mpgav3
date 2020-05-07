@@ -8,6 +8,7 @@ the website should be responsive
 the current state of the website
 [![the current state of the website ]](https://youtu.be/5fI-aKe14LM)
 
+[!update of 7 Mai 2020](https://youtu.be/hxJdwtDR2rA)
 
 there will be more that the actual content, on the category section , 
 you can see all of the content here [![https://mpagc2.apptitia.com/]](https://mpagc2.apptitia.com/)
