@@ -22,3 +22,5 @@ you can see all of the content here [![https://mpagc2.apptitia.com/]](https://mp
 [05/10](https://www.dropbox.com/sh/590uy01j7pm3yln/AABsIeYtyPQqbE3lfPcQqVUpa?dl=0)
 -add 3 pages mockups (recruitement , about us, our reference) to the dropbox folder
 -add images and content for each of those sections (stuctures and batiment)
+
+[05/11][Chart of internal Linking](https://docs.google.com/drawings/d/1TFYJKCpIEjy-saQo5lkaaqsW1-rAzByWEHhw7r2a3Ic/edit?usp=sharing)
